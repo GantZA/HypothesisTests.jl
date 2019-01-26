@@ -7,3 +7,9 @@ OneSampleHotellingT2
 EqualCovHotellingT2
 UnequalCovHotellingT2
 ```
+
+## Partial correlation test
+
+```@docs
+PartialCorTest
+```
